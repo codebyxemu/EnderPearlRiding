@@ -1,0 +1,6 @@
+name: RideJoeEnderpearl
+version: ${project.version}
+main: me.xemu.ridejoeenderpearl.RideJoeEnderpearl
+api-version: 1.16
+authors: [ Xemu ]
+description: Ride jeo enderpearl
